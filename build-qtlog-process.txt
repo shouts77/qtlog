@@ -2,7 +2,7 @@
 2. sudo npm install -g npm@9.4.0
 3. git 폴더로 이동
 4. npx gatsby new qtlog https://github.com/LekoArts/gatsby-starter-minimal-blog
-5. qtlog 폴더러 이동
+5. qtlog 폴더로 이동
    sudo npm install gatsby-plugin-sitemap
 6.sitemap url for google search console
   https://qtlog.gatsbyjs.io/sitemap-index.xml
