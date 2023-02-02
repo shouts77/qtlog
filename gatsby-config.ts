@@ -8,11 +8,11 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
-    siteTitle: `QTlog`,
-    siteTitleAlt: `QTlog`,
-    siteHeadline: `QTlog`,
+    siteTitle: `QT log`,
+    siteTitleAlt: `QT log`,
+    siteHeadline: `QT log`,
     siteUrl: `https://qtlog.gatsbyjs.io`,
-    siteDescription: `QTlog site`,
+    siteDescription: `QT log site`,
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
   },
@@ -53,9 +53,9 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `QTlog`,
-        short_name: `QTlog`,
-        description: `QTlog site`,
+        name: `QT log`,
+        short_name: `QT log`,
+        description: `QT log site`,
         start_url: `/`,
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website
