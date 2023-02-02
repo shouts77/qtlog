@@ -69,7 +69,7 @@ const config: GatsbyConfig = {
             type: `image/png`,
           },
           {
-            src: `/android-chrome-512x512.png`,
+            src: `/android-chrome-96x96.png`,
             sizes: `512x512`,
             type: `image/png`,
           },
