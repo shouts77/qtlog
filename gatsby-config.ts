@@ -9,8 +9,8 @@ const config: GatsbyConfig = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
     siteTitle: `QTlog`,
-    siteTitleAlt: `QTlog - Gatsby Theme`,
-    siteHeadline: `QTlog - Gatsby Theme from @lekoarts`,
+    siteTitleAlt: `QTlog`,
+    siteHeadline: `QTlog`,
     siteUrl: `https://qtlog.gatsbyjs.io`,
     siteDescription: `QTlog site`,
     siteImage: `/banner.jpg`,
