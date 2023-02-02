@@ -12,7 +12,7 @@ const config: GatsbyConfig = {
     siteTitleAlt: `QTlog - Gatsby Theme`,
     siteHeadline: `QTlog - Gatsby Theme from @lekoarts`,
     siteUrl: `https://qtlog.gatsbyjs.io`,
-    siteDescription: `QTlog site`
+    siteDescription: `QTlog site`,
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
   },
