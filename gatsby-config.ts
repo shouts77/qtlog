@@ -38,7 +38,7 @@ const config: GatsbyConfig = {
 //            url: `https://twitter.com/lekoarts_de`,
 //          },
           {
-            name: `Wikilog`,
+            name: `WikiLog`,
             url: `https://shouts77.github.io`,
           },
         ],
