@@ -115,7 +115,7 @@ const config: GatsbyConfig = {
   allPost(sort: {date: DESC}) {
     nodes {
       title
-      date(formatString: "MMMM D, YYYY")
+      date(formatString: "YYYY-MM-DD")
       excerpt
       slug
     }
