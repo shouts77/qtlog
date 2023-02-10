@@ -32,6 +32,7 @@ const config: GatsbyConfig = {
             slug: `/about`,
           },
         ],
+        formatString: `YYYY-MM-DD`,
         externalLinks: [
 //          {
 //            name: `Twitter`,
@@ -115,7 +116,7 @@ const config: GatsbyConfig = {
   allPost(sort: {date: DESC}) {
     nodes {
       title
-      date(formatString: "YYYY-MM-DD")
+      date(formatString: "YMMMM D, YYYY")
       excerpt
       slug
     }
