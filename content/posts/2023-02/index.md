@@ -1,6 +1,6 @@
 ---
 title: 2023년 2월 QT log
-date: 2023-02-17
+date: 2023-02-20
 tags:
   - Genesis
 ---
